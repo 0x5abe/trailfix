@@ -1,3 +1,3 @@
-# Trailfix
+# TrailFix
 
 fixes the wave trail
