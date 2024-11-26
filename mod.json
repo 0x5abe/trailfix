@@ -2,12 +2,11 @@
 	"geode": "4.0.1",
 	"gd": {
 		"win": "2.2074",
-		"android": "2.2074",
-		"mac": "2.2074"
+		"android": "2.2074"
 	},
 	"id": "sabe.trailfix",
 	"name": "TrailFix",
-	"version": "v1.0.1",
+	"version": "v1.0.2",
 	"developer": "sabe",
 	"description": ""
 }
